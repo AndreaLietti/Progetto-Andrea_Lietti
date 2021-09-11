@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestionePalestra"
+        xmlns:QrWebCam="clr-namespace:QrWebCam;assembly=QrWebCam" x:Class="GestionePalestra.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0.39"/>
+                <GradientStop Color="#FF76B287" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <ComboBox SelectionChanged="camSelect_SelectionChanged" x:Name="camSelect" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Margin="311,10,379,375" Height="34" Width="102" />
+        <QrWebCam:QrWebCamControl x:Name="webCam" QrDecoded="QrWebCamControl_QrDecoded" Margin="413,10,0,110" Loaded="Window_Loaded" />
+        <TextBox VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="dtext" Margin="393,394,392.6,0" Height="26" Width="8"/>
+        <Label x:Name="lblPersone" Content="0" HorizontalAlignment="Left" Margin="42,362,0,0" VerticalAlignment="Top" Width="61"/>
+        <Image HorizontalAlignment="Left" Height="162" VerticalAlignment="Top" Width="262" Source="gelateria-nonna-papera.jpg"/>
+
+    </Grid>
+</Window>

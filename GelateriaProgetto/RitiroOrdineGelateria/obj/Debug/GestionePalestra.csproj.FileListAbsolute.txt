@@ -1,0 +1,106 @@
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\GestionePalestra.exe.config
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\GestionePalestra.exe
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\GestionePalestra.pdb
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Imaging.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Math.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Video.DirectShow.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Video.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\QrWebCam.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.presentation.dll
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Imaging.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Math.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Video.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\AForge.Video.DirectShow.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.pdb
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.xml
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.presentation.pdb
+D:\Scuola\Informatica\GestionePalestra\bin\Debug\zxing.presentation.xml
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.csprojAssemblyReference.cache
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\MainWindow.g.cs
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\App.g.cs
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.cache
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.lref
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\MainWindow.baml
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.g.resources
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.Properties.Resources.resources
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.csproj.GenerateResource.cache
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.csproj.CoreCompileInputs.cache
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.csproj.CopyComplete
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.exe
+D:\Scuola\Informatica\GestionePalestra\obj\Debug\GestionePalestra.pdb
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\GestionePalestra.exe.config
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\GestionePalestra.exe
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\GestionePalestra.pdb
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Imaging.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Math.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Video.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\QrWebCam.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.presentation.dll
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Imaging.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Math.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Video.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.pdb
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.xml
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.presentation.pdb
+C:\Users\Andrea\Desktop\GestionePalestra\bin\Debug\zxing.presentation.xml
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.cache
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.lref
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.g.resources
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.Properties.Resources.resources
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.csproj.CopyComplete
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.exe
+C:\Users\Andrea\Desktop\GestionePalestra\obj\Debug\GestionePalestra.pdb
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\GestionePalestra.csprojAssemblyReference.cache
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\MainWindow.g.cs
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\App.g.cs
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.cache
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.lref
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\GestionePalestra.exe
+D:\Scuola\Informatica\GestionePalestraP\GestionePalestra\obj\Debug\GestionePalestra.pdb
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\GestionePalestra.exe.config
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\GestionePalestra.exe
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\GestionePalestra.pdb
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Imaging.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Math.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Video.DirectShow.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Video.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\QrWebCam.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.presentation.dll
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Imaging.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Math.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Video.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\AForge.Video.DirectShow.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.pdb
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.presentation.pdb
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\bin\Debug\zxing.presentation.xml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.csprojAssemblyReference.cache
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\MainWindow.g.cs
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\App.g.cs
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.cache
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra_MarkupCompile.lref
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\MainWindow.baml
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.g.resources
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.Properties.Resources.resources
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.csproj.GenerateResource.cache
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.csproj.CoreCompileInputs.cache
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.csproj.CopyComplete
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.exe
+E:\Andrea Scuola\Informatica\C#\Palestra\GestionePalestra\obj\Debug\GestionePalestra.pdb
