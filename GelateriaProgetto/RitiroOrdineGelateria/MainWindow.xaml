@@ -18,8 +18,8 @@
 
         <ComboBox SelectionChanged="camSelect_SelectionChanged" x:Name="camSelect" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Margin="311,10,379,375" Height="34" Width="102" />
         <QrWebCam:QrWebCamControl x:Name="webCam" QrDecoded="QrWebCamControl_QrDecoded" Margin="413,10,0,110" Loaded="Window_Loaded" />
-        <TextBox VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="dtext" Margin="393,394,392.6,0" Height="26" Width="8"/>
-        <Label x:Name="lblPersone" Content="0" HorizontalAlignment="Left" Margin="42,362,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="dtext" Margin="384,430,400,-37" Height="26" Width="8"/>
+        <Label x:Name="lblPersone" Content="0" HorizontalAlignment="Left" Margin="-90,401,0,-8" VerticalAlignment="Top" Width="61"/>
         <Image HorizontalAlignment="Left" Height="162" VerticalAlignment="Top" Width="262" Source="gelateria-nonna-papera.jpg"/>
 
     </Grid>
